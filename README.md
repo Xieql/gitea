@@ -54,7 +54,7 @@
   <a href="README_ZH.md">View this document in Chinese</a>
 </p>
 
-## Purpose
+## Purpose1
 
 The goal of this project is to make the easiest, fastest, and most
 painless way of setting up a self-hosted Git service.
